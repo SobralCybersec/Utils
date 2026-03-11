@@ -42,7 +42,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1705/1705312.png" width="25"/> Tech Stack:
 </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven&size=64" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,chatgpt,gemini&size=64" />
 </p>
 
 --- 
